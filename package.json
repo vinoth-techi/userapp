@@ -1,0 +1,23 @@
+{
+  "name": "userApp",
+  "version": "1.0.0",
+  "description": "User profile related app",
+  "main": "app.js",
+  "scripts": {
+    "test": "",
+    "start": ""
+  },
+  "keywords": [],
+  "author": "Vinoth",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.2.4",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "lodash": "^4.17.15"
+  }
+}
